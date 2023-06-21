@@ -1,0 +1,10 @@
+name: ChestLoot
+version: '${project.version}'
+main: com.rinpr.chestloot.ChestLoot
+api-version: 1.19
+authors: [Rin_Pr]
+description: ChestLoot by Rin_Pr
+commands:
+  ChestLoot:
+    permission: chestloot.admin
+    permission-message: You don't have permission to use this command.

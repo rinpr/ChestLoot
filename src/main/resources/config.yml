@@ -1,0 +1,115 @@
+lootItems:
+  0:
+    material: IRON_SWORD
+    name: "&cFire Sword"
+    enchantments:
+      FIRE_ASPECT: 1
+    chance: 0.1
+    minAmount: 1
+    maxAmount: 1
+  1:
+    material: APPLE
+    chance: 0.6
+    minAmount: 2
+    maxAmount: 7
+  2:
+    material: COOKED_BEEF
+    chance: 0.3
+    minAmount: 3
+    maxAmount: 6
+  3:
+    material: BOW
+    chance: 0.3
+    minAmount: 1
+    maxAmount: 1
+  4:
+    material: GOLDEN_APPLE
+    chance: 0.1
+    minAmount: 1
+    maxAmount: 2
+  5:
+    material: EGG
+    chance: 0.4
+    minAmount: 3
+    maxAmount: 12
+  6:
+    material: IRON_PICKAXE
+    chance: 0.3
+    minAmount: 1
+    maxAmount: 1
+  7:
+    material: WATER_BUCKET
+    chance: 0.3
+    minAmount: 1
+    maxAmount: 1
+  8:
+    material: STONE
+    chance: 0.4
+    minAmount: 16
+    maxAmount: 48
+  9:
+    material: IRON_HELMET
+    chance: 0.3
+    minAmount: 1
+    maxAmount: 1
+  10:
+    material: IRON_CHESTPLATE
+    chance: 0.3
+    minAmount: 1
+    maxAmount: 1
+  11:
+    material: IRON_LEGGINGS
+    chance: 0.3
+    minAmount: 1
+    maxAmount: 1
+  12:
+    material: IRON_BOOTS
+    chance: 0.3
+    minAmount: 1
+    maxAmount: 1
+  13:
+    material: GOLDEN_HELMET
+    chance: 0.4
+    minAmount: 1
+    maxAmount: 1
+  14:
+    material: GOLDEN_CHESTPLATE
+    chance: 0.4
+    minAmount: 1
+    maxAmount: 1
+  15:
+    material: GOLDEN_LEGGINGS
+    chance: 0.4
+    minAmount: 1
+    maxAmount: 1
+  16:
+    material: GOLDEN_BOOTS
+    chance: 0.4
+    minAmount: 1
+    maxAmount: 1
+  17:
+    material: DIAMOND_HELMET
+    chance: 0.1
+    minAmount: 1
+    maxAmount: 1
+  18:
+    material: DIAMOND_CHESTPLATE
+    chance: 0.1
+    minAmount: 1
+    maxAmount: 1
+  19:
+    material: DIAMOND_LEGGINGS
+    chance: 0.1
+    minAmount: 1
+    maxAmount: 1
+  20:
+    material: DIAMOND_BOOTS
+    chance: 0.1
+    minAmount: 1
+    maxAmount: 1
+  21:
+    material: DIAMOND_SWORD
+    chance: 0.1
+    minAmount: 1
+    maxAmount: 1
+
